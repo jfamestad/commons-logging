@@ -525,7 +525,7 @@ under the License.
   <distributionManagement>
     <site>
       <id>apache.website</id>
-      <url>${commons.deployment.protocol}://people.apache.org/www/commons.apache.org/logging/</url>
+      <url>${commons.deployment.protocol}://http://192.168.1.104:8081/</url>
     </site>
   </distributionManagement>
 
