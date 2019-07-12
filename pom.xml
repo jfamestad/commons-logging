@@ -523,8 +523,7 @@ under the License.
   </reporting>
 
   <distributionManagement>
-      <id>deployment</id>
-         <name>Internal Releases</name>
+      <name>Internal Releases</name>
       <url>http://192.168.1.104:8081/nexus/content/repositories/releases/</url>
   </distributionManagement>
 
